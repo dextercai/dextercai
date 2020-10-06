@@ -1,10 +1,12 @@
 ### About Me 👋
 - CS in major.
 - Developer + PM
-- Familiar with PHP, Golang, Vue.js, H5, Javascript and CSS development.
-- Familiar with Mysql, Mongodb.
-- Used CSharp, Lua, C++, etc.
-- Used Redius.
+- Language
+  - Familiar with PHP, Golang, Vue.js, H5, Javascript and CSS development.
+  - Used CSharp, Lua, C++.
+- DB
+  - Familiar with Mysql, Mongodb.
+  - Used Redius.
 
 ### Contact 🔊
 - Email: i@dextercai.com (in English or Chinese)
