@@ -8,7 +8,7 @@
 
 ### Contact 🔊
 - Email: i@dextercai.com (in English or Chinese)
-- Blog: [blog.dexterai.com](blog.dexterai.com) (in simplified chinese)
+- Blog: [blog.dexterai.com](http://blog.dexterai.com) (in simplified chinese)
 
 ### My Field ⚡
 - Flight simulation related development
