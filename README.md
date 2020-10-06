@@ -2,7 +2,7 @@
 - CS in major.
 - Developer + PM
 - Language
-  - Familiar with PHP, Golang, Vue.js, H5, Javascript and CSS development.
+  - Familiar with PHP, Golang, Vue.js, H5, Javascript, CSS.
   - Used CSharp, Lua, C++.
 - DB
   - Familiar with Mysql, Mongodb.
