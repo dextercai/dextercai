@@ -6,6 +6,10 @@
 - Used CSharp, Lua, C++, etc.
 - Used Redius.
 
+### Contact 🔊
+- Email: i@dextercai.com (in English or Chinese)
+- Blog: blog.dexterai.com (in simplified chinese)
+
 ### My Field ⚡
 - Flight simulation related development
 - Enterprise paperless office project
