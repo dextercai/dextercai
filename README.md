@@ -5,8 +5,8 @@
   - Familiar with PHP, Golang, Vue.js, H5, Javascript, CSS.
   - Used CSharp, Lua, C++.
 - DB
-  - Familiar with Mysql, Mongodb.
-  - Used Redius.
+  - Familiar with MySQL, MongoDB.
+  - Used Redis.
 
 ### Contact 🔊
 - Email: i@dextercai.com (in English or Chinese)
