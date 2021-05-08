@@ -6,7 +6,7 @@
   - Used CSharp, Lua, C++.
 - DB
   - Familiar with MySQL, MongoDB.
-  - Used Redis.
+  - Used Redis, etcd.
 
 ### Contact 🔊
 - Email: i@dextercai.com (in English or Chinese)
