@@ -16,7 +16,7 @@
 - Flight simulation related development
 - Other in learning.
 
-### Some project related
+### Some Project Related
 - Enterprise paperless office project
 - Industrial automation application
 - Microcomputer and microcontroller
