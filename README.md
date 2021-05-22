@@ -14,10 +14,13 @@
 
 ### My Field ⚡
 - Flight simulation related development
+- Other in learning.
+
+### Some project related
 - Enterprise paperless office project
 - Industrial automation application
 - Microcomputer and microcontroller
-- Other in learning.
+
 
 ### DexterCai's Github Status ⭕
 [![DexterCai's Github Status](https://github-readme-stats.vercel.app/api?username=dextercai)](https://github.com/dextercai)
