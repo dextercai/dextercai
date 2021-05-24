@@ -22,8 +22,9 @@
 - Microcomputer and microcontroller
 
 
-### Github Status ⭕
-[![DexterCai's Github Status](https://metrics.lecoq.io/dextercai)](https://github.com/dextercai)
+### Metrics ⭕
+![Metrics](https://metrics.lecoq.io/dextercai?template=classic&isocalendar=1&lines=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
+
 
 
 
