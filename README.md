@@ -22,9 +22,8 @@
 - Microcomputer and microcontroller
 
 
-### DexterCai's Github Status ⭕
-[![DexterCai's Github Status](https://github-readme-stats.vercel.app/api?username=dextercai)](https://github.com/dextercai)
-[![DexterCai's Top-Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dextercai&layout=compact)](https://github.com/dextercai)
+### Github Status ⭕
+[![DexterCai's Github Status](https://metrics.lecoq.io/dextercai)](https://github.com/dextercai)
 
 
 
