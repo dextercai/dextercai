@@ -1,12 +1,6 @@
 ### About Me 👋
 - CS in major.
 - Developer + PM
-- Language
-  - Familiar with PHP, Golang, Vue.js, H5, Javascript, CSS.
-  - Used CSharp, Lua, C++.
-- DB
-  - Familiar with MySQL, MongoDB.
-  - Used Redis, etcd.
 
 ### Contact 🔊
 - Email: i@dextercai.com (in English or Chinese)
