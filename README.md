@@ -6,7 +6,7 @@
 - Email: i@dextercai.com (in English or Chinese)
 - Blog: [blog.dextercai.com](http://blog.dextercai.com) (in Simplified Chinese)
 
-### 专攻领域 ⚡
+### 业余领域 ⚡
 - 飞行仿真：虚拟仪表、数据中转处理方向
 
 ### Metrics ⭕
