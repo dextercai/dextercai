@@ -7,7 +7,8 @@
 - Blog: [blog.dextercai.com](http://blog.dextercai.com) (in Simplified Chinese)
 
 ### 业余领域 ⚡
-- 飞行仿真：虚拟仪表、数据中转处理方向
+- 某飞仿研究所边缘项目：虚拟仪表、数据中转处理
+- 全国模拟飞行竞赛（军航科目）监测软件开发者
 
 ### Metrics ⭕
 ![Metrics](https://metrics.lecoq.io/dextercai?template=classic&isocalendar=1&lines=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
