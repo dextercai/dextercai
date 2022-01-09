@@ -1,6 +1,5 @@
 ### 关于 About
 - Golang后端工程师
-- 独立开发者
 
 ### 联系方式 Contect
 - Email: i@dextercai.com (in English or Chinese)
