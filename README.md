@@ -5,7 +5,7 @@
 - Learning WebRTC
 - Developing for several aviation forums and agencies
 
-### Side occupation (Flight Simulator field)
+### Side Occupation (Flight Simulator Field)
 - Hardware Development
 - Instrument Development (Academic / Military)
 - Data Analysis
