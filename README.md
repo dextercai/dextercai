@@ -11,7 +11,8 @@
 
 
 ### Metrics ⭕
-![Metrics](https://metrics.lecoq.io/dextercai?template=classic&isocalendar=1&lines=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dextercai)](https://blog.dextercai.com)
+
 
 
 
