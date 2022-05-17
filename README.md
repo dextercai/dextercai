@@ -16,10 +16,10 @@
 
 
 ### Metrics ⭕
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dextercai)](https://blog.dextercai.com)
-
-
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=dextercai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
 <div align="center">
-  <img  src="https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal" />
+  <img  src="https://activity-graph.herokuapp.com/graph?username=dextercai&theme=minimal" />
 </div>
