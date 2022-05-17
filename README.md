@@ -1,3 +1,15 @@
+
+
+### Metrics ⭕
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=dextercai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+<div align="center">
+  <img  src="https://activity-graph.herokuapp.com/graph?username=dextercai&theme=minimal" />
+</div>
+
+
 ### About
 - Golang backend engineer
 - Committed to full stack development
@@ -13,13 +25,3 @@
 ### Contect
 - Email: i@dextercai.com (in English or Chinese)
 - Blog: [blog.dextercai.com](http://blog.dextercai.com) (in Simplified Chinese)
-
-
-### Metrics ⭕
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=dextercai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<div align="center">
-  <img  src="https://activity-graph.herokuapp.com/graph?username=dextercai&theme=minimal" />
-</div>
