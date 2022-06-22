@@ -2,7 +2,8 @@
 
 ### Metrics ⭕
 
-| <img  src="https://github-readme-streak-stats.herokuapp.com?user=dextercai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" /> | <img  src="https://activity-graph.herokuapp.com/graph?username=dextercai&theme=minimal" /> |
+
+| <img src="https://github-readme-stats.vercel.app/api?username=dextercai&show_icons=true&theme=radical" style="max-width:100%;">| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextercai&layout=compact&theme=neon-dark&hide_border=true" style="max-width:100%;"> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
