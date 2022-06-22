@@ -3,7 +3,7 @@
 ### Metrics ⭕
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=dextercai&show_icons=true&theme=radical" style="max-width:100%;">| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextercai&layout=compact&theme=neon-dark&hide_border=true" style="max-width:100%;"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=dextercai&show_icons=true&theme=graywhite" style="max-width:100%;">| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextercai&layout=compact&theme=neon-dark&hide_border=true" style="max-width:100%;"> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
