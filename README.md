@@ -1,19 +1,8 @@
 
 
-### Metrics ⭕
-
-
-| <img src="https://github-readme-stats.vercel.app/api?username=dextercai&show_icons=true&theme=graywhite" style="max-width:100%;">| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextercai&layout=compact&theme=neon-dark&hide_border=true" style="max-width:100%;"> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-
-
 ### About
 - Golang backend engineer
 - Committed to full stack development
-- Amateur used: TypeScript(Vue), NodeJS(Electron)
-- Learning WebRTC
-- Developing for several aviation forums and agencies
 
 ### Side Occupation (Flight Simulator Field)
 - Hardware Development
@@ -23,3 +12,11 @@
 ### Contect
 - Email: i@dextercai.com (in English or Chinese)
 - Blog: [blog.dextercai.com](http://blog.dextercai.com) (in Simplified Chinese)
+
+### Metrics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dextercai&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dextercai&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dextercai&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dextercai&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dextercai&theme=default)
