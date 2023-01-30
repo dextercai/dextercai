@@ -1,4 +1,4 @@
-<mxfile modified="2023-01-30T06:39:51.946Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ns_2PFU1YS02bSE4Q9_h" version="20.8.13" type="github">
+<mxfile modified="2023-01-30T06:39:59.099Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UT9nnNaBmrZNy8dWkdGQ" version="20.8.13" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1378" dy="1412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="50" y="40" width="340" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Wwge6DuqS4Lbd9nzpnZh-695" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="130" y="32" width="50" height="48" as="geometry" />
+          <mxGeometry x="160" y="50" width="50" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
