@@ -4,7 +4,7 @@
 ### About
 - Golang backend engineer
 - Hybrid stack development(Golang, JavaScript, C++, etc...)
-- Using STM32, AVR, ESP32
+- Also familiar with STM32, AVR, ESP32
 
 ### Side Occupation (Flight Simulator Field)
 - Hardware Development
