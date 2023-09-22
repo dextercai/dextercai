@@ -3,12 +3,13 @@
 
 ### About
 - Golang backend engineer
+- Cloud native enthusiast
 - Hybrid stack development(Golang, JavaScript, C++, etc...)
 - Also familiar with STM32, AVR, ESP32
 
 ### Side Occupation (Flight Simulator Field)
 - Hardware Development
-- Instrument Development (Academic / Military)
+- Instrument Development (with academic and military project experience)
 - Data Analysis
  
 ### Contect
