@@ -13,7 +13,7 @@
 - Data Analysis
  
 ### Contect
-- Email: caiwenzhe2021@gmail.com (in English or Chinese)
+- Email: i@dextercai.com (For quickly response, plz CC: caiwenzhe2021@gmail.com)
 - Blog: [blog.dextercai.com](http://blog.dextercai.com) (in Simplified Chinese)
 
 ### Metrics
