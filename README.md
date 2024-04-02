@@ -5,6 +5,7 @@
 - Golang backend engineer
 - Cloud native enthusiast
 - Hybrid stack development(Golang, JavaScript, C++, etc...)
+- Familiar with OpenTelemetry
 - Also familiar with STM32, AVR, ESP32
 
 ### Side Occupation (Flight Simulator Field)
