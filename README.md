@@ -1,9 +1,6 @@
 ### PGP
 `curl https://github.com/dextercai.gpg | gpg --import`
 
-### SSH Keys
-`curl http://file.dextercai.com/authorized_keys >> ~/.ssh/authorized_keys`
-
 ### About
 - Golang backend engineer
 - Cloud native enthusiast
