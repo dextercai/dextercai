@@ -3,14 +3,13 @@
 
 ### About
 - Golang backend engineer
-- Cloud native enthusiast
+- Observability Engineer
 - Hybrid stack development(Golang, JavaScript, C++, etc...)
-- Familiar with OpenTelemetry
 - Also familiar with STM32, AVR, ESP32
 
 ### Side Occupation (Flight Simulator Field)
 - Hardware Development
-- Instrument Development (with academic and military project experience)
+- Instrument Development
 - Data Analysis
  
 ### Contect
