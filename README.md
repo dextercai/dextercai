@@ -2,8 +2,8 @@
 `curl https://github.com/dextercai.gpg | gpg --import`
 
 ### About
-- Golang backend engineer
-- Observability Engineer
+- Senior Golang R&D engineer
+- Observability
 - Hybrid stack development(Golang, JavaScript, C++, etc...)
 - Also familiar with STM32, AVR, ESP32
 
