@@ -2,9 +2,10 @@
 `curl https://github.com/dextercai.gpg | gpg --import`
 
 ### About
-- Senior Golang R&D engineer
+- Senior System Engineer in COSCON (202601-now)
+- Senior Golang R&D engineer in Autowise.ai (202207-202512)
 - Observability
-- Hybrid stack development(Golang, JavaScript, C++, etc...)
+- Hybrid stack development (Golang, JavaScript, C++, etc...)
 - Also familiar with STM32, AVR, ESP32
 
 ### Side Occupation (Flight Simulator Field)
